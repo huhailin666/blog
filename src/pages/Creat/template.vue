@@ -1,0 +1,10 @@
+<<template>
+  <div id="Creat">
+    创建博客
+  </div>
+</template>
+<script src="./template.js"></script>
+
+<style src="./template.css"></style>
+
+
